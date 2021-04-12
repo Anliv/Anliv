@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Anliv
-- 👀 I’m interested in Product Management - ML/AI
-- 🌱 I’m currently learning MBA program at Haas, and coding at home
+- 👋 Hi, I’m An Tran - MBA Candidate at Haas School of Business, class of 2022
+- 👀 I’m following career in Product Management - ML/AI
+- 🌱 I’m learn coding for fun
 - 💞️ I’m looking to opportunity to build the next thing for the world
 - 📫 How to reach me an_tran@berkeley.edu
 
