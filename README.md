@@ -1,7 +1,7 @@
 - 👋 Hi, I’m An Tran - MBA Candidate at Haas School of Business, class of 2022
 - 👀 I’m following career in Product Management - ML/AI
 - 🌱 I learn coding for fun: Python (data analysis, AI models) & Java (back-end)
-- 💞️ My super power is the appreciation of beauty
+- 💞️ My super power is creativity juice, cross-functional team influence, simplicity
 - 📫 How to reach me an_tran@berkeley.edu or https://www.linkedin.com/in/antran92/
 
 <!---
